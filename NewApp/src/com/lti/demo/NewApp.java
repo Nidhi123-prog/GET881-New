@@ -13,23 +13,11 @@ public class NewApp {
 		System.out.println("created");
 		
 	}
-	public void subs() {
-		System.out.println("subs method");
-		
+	public void method() {
+		System.out.println("void method");
 	}
-	
-	public void prod(){
-		System.out.println("new method added");
+	public void test() {
+		System.out.println("test method");
 	}
-	
-	public void div1method(){
-		System.out.println("another method");
-	}
-	public void multiplication(){
-		System.out.println("method");
-	}
-	public void show(){
-		system.out.println("show");
-	}
-	
+
 }
