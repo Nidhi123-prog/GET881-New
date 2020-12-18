@@ -22,7 +22,7 @@ public class NewApp {
 		System.out.println("new method added");
 	}
 	
-	public void div(){
+	public void div1method(){
 		System.out.println("another method");
 	}
 	
