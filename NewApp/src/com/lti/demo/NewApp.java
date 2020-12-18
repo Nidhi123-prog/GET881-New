@@ -10,7 +10,7 @@ public class NewApp {
 		
 	}
 	public void sub() {
-		System.out.println("account created");
+		System.out.println("created");
 		
 	}
 	public void subs() {
@@ -25,8 +25,8 @@ public class NewApp {
 	public void div1method(){
 		System.out.println("another method");
 	}
-	public void mul){
-		System.out.println("mul method");
+	public void mul(){
+		System.out.println("method");
 	}
 	
 }
