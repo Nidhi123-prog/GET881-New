@@ -25,7 +25,7 @@ public class NewApp {
 	public void div1method(){
 		System.out.println("another method");
 	}
-	public void mul(){
+	public void multiplication(){
 		System.out.println("method");
 	}
 	
