@@ -16,6 +16,8 @@ public class NewApp {
 	public void method() {
 		System.out.println("void method");
 	}
-	
+	public void test() {
+		System.out.println("test method");
+	}
 	
 }
