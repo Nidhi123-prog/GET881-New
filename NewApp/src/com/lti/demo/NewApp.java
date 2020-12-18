@@ -4,13 +4,13 @@ public class NewApp {
 
 	public void add() {
 
-		System.out.println("Hello!!! World");
-		System.out.println("Github");
+		println("Hello!!! World");
+		
 
 		
 	}
 	public void sub() {
-		System.out.println("account created");
+		System.out.println("created");
 		
 	}
 	public void method() {
@@ -19,5 +19,5 @@ public class NewApp {
 	public void test() {
 		System.out.println("test method");
 	}
-	
+
 }
