@@ -14,5 +14,9 @@ public class NewApp {
 		System.out.println("new method added");
 	}
 	
+	public void div(){
+		System.out.println("another method");
+	}
+	
 	
 }
