@@ -10,5 +10,9 @@ public class NewApp {
 		
 	}
 	
+	public void prod(){
+		System.out.println("new method added");
+	}
+	
 	
 }
