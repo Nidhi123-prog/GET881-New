@@ -28,5 +28,8 @@ public class NewApp {
 	public void multiplication(){
 		System.out.println("method");
 	}
+	public void show(){
+		system.out.println("show");
+	}
 	
 }
