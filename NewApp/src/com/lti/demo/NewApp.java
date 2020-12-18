@@ -7,6 +7,11 @@ public class NewApp {
 		System.out.println("Github");
 		
 	}
+	public void sub() {
+		System.out.println("account created");
+		
+		
+	}
 	
 	
 }
