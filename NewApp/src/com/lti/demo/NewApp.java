@@ -9,6 +9,14 @@ public class NewApp {
 
 		
 	}
+	public void sub() {
+		System.out.println("account created");
+		
+	}
+	public void subs() {
+		System.out.println("subs method");
+		
+	}
 	
 	public void prod(){
 		System.out.println("new method added");
